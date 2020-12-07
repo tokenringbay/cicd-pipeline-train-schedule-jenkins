@@ -17,3 +17,5 @@ You can run the app with:
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 
 Test edit (Tia)
+set on a master # of executors 0
+changed on a worker node: "only build jobs with label expressions" to "use this node as much as possible"ad
