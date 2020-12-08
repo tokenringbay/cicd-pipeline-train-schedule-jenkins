@@ -19,4 +19,5 @@ Once it is running, you can access it in a browser at [http://localhost:3000](ht
 ===========================
 
 set on a master # of executors 0
-changed on a worker node: "only build jobs with label expressions" to "use this node as much as possible"ad
+changed on a worker node: "only build jobs with label expressions" to "use this node as much as possible"
+Worked. Now trying to see if push wil work
